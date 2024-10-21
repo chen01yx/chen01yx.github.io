@@ -1,0 +1,29 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.research-project {
+    width: 720px;
+    margin: 0 auto;
+    display: table;
+}
+
+.research-thumb {
+    width: 180px;
+    float: left;
+    margin-top: 7px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+
+.research-thumb img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.research-project-title {
+    color: #003373;
+    font-size: 16px;
+    line-height: 26px;
+}
