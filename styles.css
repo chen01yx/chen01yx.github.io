@@ -1,16 +1,16 @@
 body {
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
 }
 
 .research-project {
-    width: 90%;
+    width: 800px;
     margin: 0 auto;
     display: table;
 }
 
 .research-thumb {
-    width: 180px;
+    width: 200px;
     float: left;
     margin-top: 7px;
     padding-right: 30px;
