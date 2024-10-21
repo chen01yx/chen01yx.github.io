@@ -11,10 +11,11 @@ body {
 
 .research-thumb {
     width: 200px;
+    height: 150px;
     float: left;
     margin-top: 7px;
-    padding-right: 30px;
     margin-bottom: 20px;
+    padding-right: 30px;
 }
 
 .research-thumb img {
